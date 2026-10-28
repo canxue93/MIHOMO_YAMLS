@@ -8,13 +8,13 @@
 
 | 特性 | `Clashmi-fx.yaml` | `Clashmi.yaml` | `clash-fallback-all.yaml` | `clash-fallback.yaml` | `clash-all-fallback.yaml` | `clash-fallback-dialer.yaml` | `clash-fallback-std.yaml` | `config.yaml` | `mihomo.yaml` | `mihomo.yaml` | `config.yaml` | `AIO.yaml` | `AIB.yaml` | `Seven1_fallback_Geo.yaml` | `Seven1_fallback_Rule-Set.yaml` | `config.yaml` | `3-subscription-clash-rule-set.yaml` | `2-subscription-clash-rule-set.yaml` | `base-clash-ruleset.yaml` | `region-dual-provider.yaml` | `service-single-provider.yaml` | `region-single-provider.yaml` | `fuxie.yaml` | `proxychain.yaml` | `config.yaml` | `MihomoProMax.yaml` | `MihomoAIO.yaml` | `MihomoProPlus.yaml` | `config_lite.yaml` | `mihomo.yaml` | `config.yaml` | `mihomo.yaml` | `mihomo.yaml` | `ConfigForClash.yaml` | `config.yaml` | `configfull_NoAd.yaml` | `configfull_lite.yaml` | `configfull.yaml` | `Clash.yaml` | `Ayanami0_config_geo-lite.yaml` | `Ayanami0_config.yaml` | `Lite_en.yaml` | `MihomoPro_Config.yaml` | `Pro_en.yaml` | `OneTouch_Config.yaml` | `Mini_en.yaml` | `backup.yaml` | `Clash_Sample.yaml` | `us_la.yaml` | `Clash-Airport.yaml` | `mihomo_multi.yaml` | `mihomo_single.yaml` | `Proxy-override.yaml` | `mihomoConfigLite.yaml` | `mihomoconfig.yaml` | `[通用模版]-WhiteList-01.yaml` | `[Desktop]-WhiteList-01.yaml` | `BlackList-02-Min.AntiAD.yaml` | `[Mobile]-WhiteList-01.yaml` | `BlackList-03-Non.AntiAD.yaml` | `BlackList-01.yaml` | `[Mobile]-WhiteList-02-Min.AntiAD.yaml` | `[通用模版]-WhiteList-02-Min.AntiAD.yaml` | `[Desktop]-WhiteList-03-Non.AntiAD.yaml` | `[Mobile]-WhiteList-03-Non.AntiAD.yaml` | `[通用模版]-WhiteList-03-Non.AntiAD.yaml` | `[Desktop]-WhiteList-02-Min.AntiAD.yaml` | `mihomo.yaml` | `mihomo.yaml` | `mihomo.yaml` | `mihomo.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 19.6 KB | 20.3 KB | 18.6 KB | 15.9 KB | 17.2 KB | 16.3 KB | 17.3 KB | 13.8 KB | 23.1 KB | 32.2 KB | 28.5 KB | 10.8 KB | 11.0 KB | 22.1 KB | 24.7 KB | 18.7 KB | 24.6 KB | 24.1 KB | 23.5 KB | 20.9 KB | 25.9 KB | 15.1 KB | 13.2 KB | 14.9 KB | 13.9 KB | 25.7 KB | 28.3 KB | 26.2 KB | 2.9 KB | 3.1 KB | 8.0 KB | 30.4 KB | 15.1 KB | 49.3 KB | 24.6 KB | 34.9 KB | 18.6 KB | 35.4 KB | 27.3 KB | 3.9 KB | 12.6 KB | 11.0 KB | 22.2 KB | 15.4 KB | 12.1 KB | 4.7 KB | 12.5 KB | 8.4 KB | 18.5 KB | 17.5 KB | 12.7 KB | 12.4 KB | 32.6 KB | 18.0 KB | 28.0 KB | 2054.2 KB | 697.4 KB | 697.2 KB | 697.4 KB | 697.2 KB | 697.2 KB | 697.4 KB | 2054.2 KB | 697.4 KB | 697.4 KB | 2054.2 KB | 697.4 KB | 6.4 KB | 14.6 KB | 45.1 KB | 6.0 KB |
+| **大小** | 19.6 KB | 20.3 KB | 18.6 KB | 15.9 KB | 17.2 KB | 16.3 KB | 17.3 KB | 13.8 KB | 23.1 KB | 37.6 KB | 28.5 KB | 10.8 KB | 11.0 KB | 22.1 KB | 24.7 KB | 18.7 KB | 24.6 KB | 24.1 KB | 23.5 KB | 20.9 KB | 25.9 KB | 15.1 KB | 13.2 KB | 14.9 KB | 13.9 KB | 25.7 KB | 28.3 KB | 26.2 KB | 2.9 KB | 3.1 KB | 8.0 KB | 30.4 KB | 15.1 KB | 49.3 KB | 24.6 KB | 34.9 KB | 18.6 KB | 35.4 KB | 27.3 KB | 3.9 KB | 12.6 KB | 11.0 KB | 22.2 KB | 15.4 KB | 12.1 KB | 4.7 KB | 12.5 KB | 8.4 KB | 18.5 KB | 17.5 KB | 12.7 KB | 12.4 KB | 32.6 KB | 17.8 KB | 27.7 KB | 2054.2 KB | 697.4 KB | 697.2 KB | 697.4 KB | 697.2 KB | 697.2 KB | 697.4 KB | 2054.2 KB | 697.4 KB | 697.4 KB | 2054.2 KB | 697.4 KB | 6.4 KB | 14.6 KB | 45.1 KB | 6.0 KB |
 | **混合端口** | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7890 | 1080 | 7254 | 7893 | 7890 | 7890 | 7893 | 7893 | 7892 | - | - | - | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7890 | 7890 | 7892 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7893 | 7893 | 7893 | 7893 | 7893 | 7892 | 7892 | - | - | 7897 | 7897 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 7890 | 8899 | 0 | 7890 | 7890 |
 | **面板地址** | 127.0.0.1:9092 | 127.0.0.1:9092 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | :9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | - | - | - | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | - | - | 0.0.0.0:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | - | - | - | 0.0.0.0:7891 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | :9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9092 | 127.0.0.1:9092 | - | - | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | - | - | 0.0.0.0:9090 | 127.0.0.1:9090 |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | Rule | Rule | Rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule |
 | **TUN** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | 🚫 | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | ✅ | ✅ | ✅ | ✅ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | ✅ | ✅ | ✅ |
-| **策略组** | **31** | **31** | **61** | **34** | **53** | **35** | **36** | **29** | **59** | **20** | **25** | **23** | **24** | **41** | **41** | **13** | **41** | **40** | **31** | **33** | **33** | **14** | **28** | **28** | **28** | **54** | **61** | **54** | **1** | **5** | **17** | **80** | **19** | **62** | **49** | **59** | **47** | **62** | **27** | **1** | **21** | **18** | **51** | **37** | **14** | **3** | **22** | **15** | **15** | **23** | **33** | **33** | **16** | **26** | **44** | **177** | **156** | **144** | **155** | **143** | **145** | **154** | **176** | **154** | **153** | **175** | **155** | **10** | **35** | **96** | **8** |
-| **规则数** | **34** | **34** | **53** | **43** | **42** | **43** | **43** | **33** | **35** | **160** | **35** | **34** | **34** | **28** | **28** | **37** | **53** | **53** | **53** | **74** | **192** | **74** | **28** | **28** | **28** | **45** | **52** | **44** | **16** | **12** | **24** | **59** | **27** | **62** | **33** | **95** | **38** | **96** | **68** | **11** | **30** | **20** | **39** | **29** | **22** | **7** | **25** | **11** | **34** | **36** | **22** | **22** | **173** | **23** | **59** | **233** | **235** | **182** | **233** | **181** | **188** | **227** | **227** | **228** | **226** | **226** | **229** | **13** | **17** | **1** | **17** |
+| **策略组** | **31** | **31** | **61** | **34** | **53** | **35** | **36** | **29** | **59** | **25** | **25** | **23** | **24** | **41** | **41** | **13** | **41** | **40** | **31** | **33** | **33** | **14** | **28** | **28** | **28** | **54** | **61** | **54** | **1** | **5** | **17** | **80** | **19** | **62** | **49** | **59** | **47** | **62** | **27** | **1** | **21** | **18** | **51** | **37** | **14** | **3** | **22** | **15** | **15** | **23** | **33** | **33** | **16** | **26** | **44** | **177** | **156** | **144** | **155** | **143** | **145** | **154** | **176** | **154** | **153** | **175** | **155** | **10** | **35** | **96** | **8** |
+| **规则数** | **34** | **34** | **53** | **43** | **42** | **43** | **43** | **33** | **35** | **165** | **35** | **34** | **34** | **28** | **28** | **37** | **53** | **53** | **53** | **74** | **192** | **74** | **28** | **28** | **28** | **45** | **52** | **44** | **16** | **12** | **24** | **59** | **27** | **62** | **33** | **95** | **38** | **96** | **68** | **11** | **30** | **20** | **39** | **29** | **22** | **7** | **25** | **11** | **34** | **36** | **22** | **22** | **173** | **22** | **58** | **233** | **235** | **182** | **233** | **181** | **188** | **227** | **227** | **228** | **226** | **226** | **229** | **13** | **17** | **1** | **17** |
 
 ## 📄 配置详情
 
@@ -151,7 +151,7 @@
 ### 👤 AIsouler
 
 #### 📝 mihomoConfigLite.yaml
-- **路径**: `AIsouler/mihomoConfigLite.yaml` | **大小**: 18.0 KB | [查看源码](https://github.com/canxue93/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/AIsouler/mihomoConfigLite.yaml)
+- **路径**: `AIsouler/mihomoConfigLite.yaml` | **大小**: 17.8 KB | [查看源码](https://github.com/canxue93/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/AIsouler/mihomoConfigLite.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (26个)</summary>
@@ -182,7 +182,7 @@
 </details>
 
 #### 📝 mihomoconfig.yaml
-- **路径**: `AIsouler/mihomoconfig.yaml` | **大小**: 28.0 KB | [查看源码](https://github.com/canxue93/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/AIsouler/mihomoconfig.yaml)
+- **路径**: `AIsouler/mihomoconfig.yaml` | **大小**: 27.7 KB | [查看源码](https://github.com/canxue93/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/AIsouler/mihomoconfig.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (44个)</summary>
@@ -1415,10 +1415,10 @@
 ### 👤 XVSVTSAMA
 
 #### 📝 mihomo.yaml
-- **路径**: `XVSVTSAMA/mihomo.yaml` | **大小**: 32.2 KB | [查看源码](https://github.com/canxue93/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/XVSVTSAMA/mihomo.yaml)
+- **路径**: `XVSVTSAMA/mihomo.yaml` | **大小**: 37.6 KB | [查看源码](https://github.com/canxue93/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/XVSVTSAMA/mihomo.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (20个)</summary>
+<summary>🔍 策略组 (25个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
@@ -1441,7 +1441,8 @@
 | 👆 🎬 Emby | `select` |
 | 👆 💬 Discord | `select` |
 | 👆 👽 Reddit | `select` |
-| 👆 FCM | `select` |
+| 👆 🎥 Netflix | `select` |
+| ... | 还有 5 个 |
 </details>
 
 ---
